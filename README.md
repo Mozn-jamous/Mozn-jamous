@@ -48,11 +48,11 @@ AI-assisted Arabic-first maternal & child health platform.
 <td width="50%" valign="top">
 
 ### 👶 [CareConnect Platform](https://github.com/Mozn-jamous/careconnect-platform-showcase)
-*Two-sided childcare marketplace*
+*Three-tier childcare marketplace · IEEE 830 SRS*
 
-Parent app + Babysitter provider app sharing a unified backend with escrow payments and in-app chat.
+Mother + Babysitter + Admin apps on unified Supabase backend with Google Maps discovery, WhatsApp comms, and database-layer RBAC.
 
-`Flutter` `Firebase` `Two-app architecture`
+`Flutter` `Supabase` `OAuth` `RBAC`
 
 </td>
 </tr>
