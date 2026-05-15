@@ -105,7 +105,7 @@ I co-develop on several production codebases as part of partner teams:
 
 ## 📞 Reach me
 
-- 📧 **Email:** [asaierafi@clinlab.ai](mailto:asaierafi@clinlab.ai)
+- 📧 **Email:** [moznjamous9@gmail.com](mailto:moznjamous9@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/mozn-jamous](https://www.linkedin.com/in/mozn-jamous)
 
 I am open to **ERP, full-stack, and Flutter freelance work**, as well as **digital-health grants, accelerators, and research collaborations**. Letters of reference from supervisors and partners available on request.
