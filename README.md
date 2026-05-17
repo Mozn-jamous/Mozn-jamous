@@ -57,24 +57,14 @@ Mother + Babysitter + Admin apps on unified Supabase backend with Google Maps di
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 💸 [Smart Expense Manager](https://github.com/Mozn-jamous/smart-expense-manager)
-*Odoo 19 module · Open source*
+*Odoo 19 module · Open source (LGPL-3.0)*
 
-End-to-end expense management with mobile receipts, token-secured email approvals, and automated PDF reports.
+End-to-end expense management with mobile receipts, token-secured email approvals, and automated PDF reports. Bilingual (Arabic + English).
 
-`Python` `Odoo 19` `LGPL-3.0`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 [Rise Up](https://github.com/Mozn-jamous/riseup-showcase)
-*90-day Life OS PWA*
-
-Career roadmap with 18 sellable project blueprints, programming fundamentals, and interview prep.
-
-`Vanilla JS` `PWA` `Capacitor`
+`Python` `Odoo 19` `OWL` `QWeb`
 
 </td>
 </tr>
